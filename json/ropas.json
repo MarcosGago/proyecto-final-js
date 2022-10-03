@@ -1,0 +1,9 @@
+[
+    {"id":1, "ropa": "remera", "precio": 1000, "talle": "m",  "imagen": "../imagenes/remera1.jpg"},
+  
+      {"id":2, "ropa":"pantalon", "precio": 1400, "talle": "s",  "imagen": "../imagenes/pantalon2.jpg"},
+      
+      {"id":3, "ropa":"buzo", "precio": 1200, "talle": "xl",  "imagen": "../imagenes/buzo.jpg"},
+      
+      {"id":4, "ropa":"calza", "precio": 1500, "talle": "m",  "imagen": "../imagenes/calza.jpg"}
+  ]
